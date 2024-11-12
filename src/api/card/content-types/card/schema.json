@@ -41,20 +41,10 @@
       "type": "string"
     },
     "powerMin": {
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      },
       "type": "biginteger"
     },
-    "powers": {
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      },
-      "type": "json"
+    "powerMax": {
+      "type": "biginteger"
     },
     "rarety": {
       "pluginOptions": {
